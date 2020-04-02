@@ -1,3 +1,5 @@
+# https://www.py4e.com/html3/04-functions
+#
 # Exercise 6: Rewrite your pay computation with time-and-a-half for overtime and
 # create a function called computepay which takes two parameters (hours and rate)
 #
